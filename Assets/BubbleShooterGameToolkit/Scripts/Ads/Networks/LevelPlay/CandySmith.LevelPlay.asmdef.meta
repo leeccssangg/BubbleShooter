@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 731d06bd156e4dce98642f32efef75dd
+timeCreated: 1758713242
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272732
+  packageName: 'Bubble Shooter: Game Toolkit'
+  packageVersion: 1.15
+  assetPath: Assets/BubbleShooterGameToolkit/Scripts/Ads/Networks/LevelPlay/CandySmith.LevelPlay.asmdef
+  uploadId: 794258

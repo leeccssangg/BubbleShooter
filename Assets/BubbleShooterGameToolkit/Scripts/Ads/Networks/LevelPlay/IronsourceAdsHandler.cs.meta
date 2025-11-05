@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c8e3881626924945a6256e7be23a89b5
+timeCreated: 1709623544
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272732
+  packageName: 'Bubble Shooter: Game Toolkit'
+  packageVersion: 1.15
+  assetPath: Assets/BubbleShooterGameToolkit/Scripts/Ads/Networks/LevelPlay/IronsourceAdsHandler.cs
+  uploadId: 794258

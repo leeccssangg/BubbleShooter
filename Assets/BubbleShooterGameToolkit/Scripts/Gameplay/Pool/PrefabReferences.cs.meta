@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e62222cab050a41eea11e6494e3e9bfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272732
+  packageName: 'Bubble Shooter: Game Toolkit'
+  packageVersion: 1.15
+  assetPath: Assets/BubbleShooterGameToolkit/Scripts/Gameplay/Pool/PrefabReferences.cs
+  uploadId: 794258

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 67d962e571c249ffb89dbd595d9299bc
+timeCreated: 1742630220
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272732
+  packageName: 'Bubble Shooter: Game Toolkit'
+  packageVersion: 1.15
+  assetPath: Assets/BubbleShooterGameToolkit/VirtualMouse/Scripts/VirtualMouseCanvasKeeper.cs
+  uploadId: 794258
